@@ -1142,6 +1142,7 @@ hero css
   position: relative;
   overflow: hidden;
   z-index: 1;
+  height: 600px;
 }
 
 .hero-single::after {
