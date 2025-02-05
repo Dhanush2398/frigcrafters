@@ -1293,10 +1293,10 @@ hero css
 
 @media all and (max-width: 991px) {
   .hero-single .hero-content .hero-title {
-    font-size: 35px;
+    font-size: 30px;
   }
   .hero-single {
-    padding-top: 190px;
+    padding-top: 150px;
   }
   .hero-single::before {
     display: none;
